@@ -1,0 +1,16 @@
+{
+  "name": "scratch",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "node --test test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.7.9",
+    "@types/sinon": "^17.0.3",
+    "sinon": "^19.0.2"
+  }
+}
